@@ -1,4 +1,4 @@
-# Python Package `cookiecutter` Recipe for use with `rye`
+# Mixed Python/Rust Package `cookiecutter` Recipe managed with `rye`
 
 It's easy to get started with this recipe
 1. Install `rye`
